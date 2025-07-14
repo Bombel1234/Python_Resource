@@ -1,8 +1,8 @@
 {
   "apps": [
-    {"app": "Eko drewno"},
-    {"app": "Eko hst"},
-    {"app":"Test"}
+    {"Eko drewno":"https://stolarnia-eko.github.io/test/program.html"},
+    {"Eko hst":"https://stolarnia-eko.github.io/HTS/index.html"},
+    {"Test":"https://stolarnia.pythonanywhere.com"}
   ],
   "urls": [
     {"url": "https://stolarnia-eko.github.io/test/program.html"},
