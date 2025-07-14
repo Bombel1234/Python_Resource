@@ -1,4 +1,7 @@
 {
-  {"title":"application1", "url":"https://ggguhukjhkh.com"},
-  {"title1":"application2", "url1":"https://mbbuygreearxt.com"},
+    "http://example.org/about": {
+        "http://purl.org/dc/terms/title": [
+            {"type": "literal", "value": "Anna's Homepage"}
+        ]
+    }
 }
