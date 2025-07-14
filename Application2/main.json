@@ -1,6 +1,10 @@
 {
-    [
-    {"title":"aplication1", "url":"https://bkgyrdrsgdfyu.com"},
-    {"title":"aplication2", "url":"https://oiuhuy-jhgfgfh.com"}
-    ]
+  "apps": [
+    {"app1": "Application1"},
+    {"app2": "Application2"}
+  ],
+  "url": [
+    {"url1": "https://jknkbjhbhj.com"},
+    {"url2": "https://mbfr-hvfsd.com"}
+  ]
 }
