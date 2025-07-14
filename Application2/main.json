@@ -1,10 +1,12 @@
 {
   "apps": [
-    {"app1": "Application1"},
-    {"app2": "Application2"}
+    {"app1": "Eko drewno"},
+    {"app2": "Eko hst"},
+    {"app3":"Test"}
   ],
   "url": [
-    {"url1": "https://jknkbjhbhj.com"},
-    {"url2": "https://mbfr-hvfsd.com"}
+    {"url1": "https://stolarnia-eko.github.io/test/program.html"},
+    {"url2": "https://stolarnia-eko.github.io/HTS/index.html"},
+    {"url3":"https://stolarnia.pythonanywhere.com"}
   ]
 }
