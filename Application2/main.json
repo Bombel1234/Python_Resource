@@ -4,7 +4,7 @@
     {"app": "Eko hst"},
     {"app":"Test"}
   ],
-  "url": [
+  "urls": [
     {"url": "https://stolarnia-eko.github.io/test/program.html"},
     {"url": "https://stolarnia-eko.github.io/HTS/index.html"},
     {"url":"https://stolarnia.pythonanywhere.com"}
