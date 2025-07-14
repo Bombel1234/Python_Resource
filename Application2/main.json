@@ -1,7 +1,6 @@
 {
-    "http://example.org/about": {
-        "http://purl.org/dc/terms/title": [
-            {"type": "literal", "value": "Anna's Homepage"}
-        ]
-    }
+    [
+    {"title":"aplication1", "url":"https://bkgyrdrsgdfyu.com"},
+    {"title":"aplication2", "url":"https://oiuhuy-jhgfgfh.com"}
+    ]
 }
