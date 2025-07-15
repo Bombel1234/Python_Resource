@@ -2,13 +2,9 @@
   "apps": [
     {"Eko drewno":"https://stolarnia-eko.github.io/test/program.html"},
     {"Eko hst":"https://stolarnia-eko.github.io/HTS/index.html"},
-    {"Test":"https://stolarnia.pythonanywhere.com"}
+    {"Test":"https://stolarnia.pythonanywhere.com"},
+    {"test random":"kbkbh.com"}
   ],
-  "urls": [
-    {"url": "https://stolarnia-eko.github.io/test/program.html"},
-    {"url": "https://stolarnia-eko.github.io/HTS/index.html"},
-    {"url":"https://stolarnia.pythonanywhere.com"}
-  ],
-  "info":"Baza danych jest na Github. Bombel1234/Python-Resouce/Aplication2",
-"test":"hgghffg.com"
+  
+  "info":"Baza danych jest na Github. Bombel1234/Python-Resouce/Aplication2"
 }
