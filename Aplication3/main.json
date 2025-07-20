@@ -1,1 +1,22 @@
-{"title": "Login Screen", "source": "Home Screen", "name": "Size world", "Type-List": ["78", "67", "34"], "type-list": ["data", "example", "year"], "Type-list-now": ["test1", "test2", "test3", "test4", "test5"]}
+{
+    "title": "Login Screen",
+    "source": "Home Screen",
+    "name": "Example world",
+    "Type-List": [
+        "78",
+        "67",
+        "34"
+    ],
+    "type-list": [
+        "data",
+        "example",
+        "year"
+    ],
+    "Type-list-now": [
+        "test1",
+        "test2",
+        "test3",
+        "test4",
+        "test5"
+    ]
+}
